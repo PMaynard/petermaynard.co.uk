@@ -1,0 +1,234 @@
+body {
+	text-align: center;
+}
+.wrapper {
+	position: relative;
+	width: 700px;
+	font-size: 0.9em;
+	margin: 0 auto -142px;
+	text-align: left;
+}
+.left{
+	float: left;
+	padding-right: 0.8em; 
+}
+.right{
+	float: right;
+}
+
+.cv {
+	text-align: center;
+	width: 700px;
+}
+
+.cv img {
+	padding: 0 2.5em;
+}
+
+.clear{
+	clear: both; 
+}
+
+.header {
+	height: 190px;
+	background: url(../images/header.jpg) no-repeat;
+}
+
+.header ul{
+	list-style-type: none;
+}
+
+.menu {
+	position: absolute;
+	right: 0;
+	top: 165px;
+	font: 1.4em helvetica,arial,sans-serif;
+	text-shadow: gray 1px 1px 2px;
+}
+
+.menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul li {
+	display: inline;
+	margin-right: 0.8em;
+}
+
+.menu a, .header a {
+	color: #666;
+	text-decoration: none;
+}
+
+.menu a:hover, .header a:hover {
+	text-decoration: none; 
+}
+
+
+h1 {
+	padding-top: 50px;
+	color: #666;
+	font: 3em helvetica,arial,sans-serif;
+	text-shadow: gray 1px 1px 2px;
+}
+
+h2 {
+	padding: 0 0 1em;
+	color: #d00;
+	font: 1.4em helvetica,arial,sans-serif;
+	text-shadow: #ddd 1px 1px 2px;
+}
+
+h3 {
+	padding: 0 0 0.6em;
+	color: #666;
+	font: 1.4em helvetica,arial,sans-serif;
+	text-shadow: #ddd 1px 1px 2px;
+}
+
+h4 {
+	padding: 0 0.8em 0.6em;
+	color: #666;
+	font: 1.3em helvetica,arial,sans-serif;
+	text-shadow: #ddd 1px 1px 2px;
+}
+
+.cv2 ul {
+	padding-bottom: 0.3em;
+}
+
+.cv2 li {
+	padding: 0 0 0.2em;
+	color: #666;
+	font: 1em/1.4em arial,sans-serif;
+}
+
+p {
+	padding: 0 0 1em;
+	color: #666;
+	font: 1em/1.4em arial,sans-serif;
+}
+
+a {
+	color: #2B65EC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline; 
+}
+
+strong {
+	font-weight: normal;
+}
+
+.footer {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #333;
+	border-top: 1px solid #222;
+}
+
+.footer h2{
+	color: white;
+	text-shadow: none;
+}
+
+.footer ul {
+	list-style-type: none;
+	margin-top: 10px;
+}
+
+.footer ul li {
+	padding-left: 10px;
+}
+
+.footer a {
+	color: #fff;
+	text-decoration: underline;
+	border: 0;
+}
+
+.footer .item{
+	float: left; 
+	width: 300px;
+}
+
+.footer .element {
+	margin: 0 auto;
+	left: 0;
+	top: 4px;
+	width: 700px;
+	padding: 0;
+	color: #fff;
+	font: 0.8em arial,sans-serif;
+	text-align: left;
+}
+
+.footer .copyright {
+	position: absolute;
+	left: 0;
+	bottom: 4px;
+	width: 100%;
+	padding: 0;
+	color: #fff;
+	font: 0.8em arial,sans-serif;
+	text-align: center;
+}
+
+.gfc-results{
+	padding: 0 0 1em;
+	color: #666;
+	font: 1em/1.4em arial,sans-serif;
+}
+
+.gfc-resultsHeader{
+	display: none;
+}
+
+.gf-title{
+	padding: 0 0 0.6em;
+	color: #666;
+	font: 1.1em helvetica,arial,sans-serif;
+	text-shadow: #ddd 1px 1px 2px;
+}
+
+.gf-snippet{
+	padding-bottom: 10px;
+}
+
+/* Begin Twitter */
+.tweet, .query {
+	font-size: 95%;
+	width: 400px;
+}
+
+.tweet .tweet_list, .query .tweet_list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0; 
+}
+
+.tweet .tweet_list .awesome, .tweet .tweet_list .epic, .query .tweet_list .awesome, .query .tweet_list .epic {
+	text-transform: uppercase; 
+}
+.tweet .tweet_list li, .query .tweet_list li {
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.tweet .tweet_list li a, .query .tweet_list li a {
+	font-style: italic;
+}
+.tweet .tweet_list .tweet_even, .query .tweet_list .tweet_even {
+}
+.tweet .tweet_list .tweet_avatar, .query .tweet_list .tweet_avatar {
+	float: left; 
+}
+.tweet .tweet_list .tweet_avatar img, .query .tweet_list .tweet_avatar img {
+	vertical-align: middle; 
+}
+
+/* End Twitter */
