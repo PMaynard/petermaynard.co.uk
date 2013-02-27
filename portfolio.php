@@ -1,11 +1,12 @@
 			<h2>Portfolio</h2>
 			<p>Here is a collection of work that I have done in my spare time or for clients.  Topics range from web design, assignments and informational reports.</p>
+			<p>Please accept my appologies for any spelling or gramatical errors contained within the following documents. These are mainly here for historical puposes.</p>
 			
 			<h2>Programming</h2>
 			<p>This area will contain links to code and applications that I have written either for assignments or in my spare time.</p>
 			
 			<h3>Computer Science BSc Hon</h3>
-			<p>None</p>
+			<p><a href="files/portfolio/Quick_Sort_Optimization.pdf">Quick Sort Optimization</a> - This report details the results of quick sort optimization. Using diferent simple sorts when the data set reached a certain limit. Please see assignment <a href="files/portfolio/Quick_Sort_Optimization_Specification.pdf">specification</a></p>
 			
 			<h3>HND Computing</h3>
 			<p>This work was done a while ago 2008/09, and are on here for historical purposes</p>
@@ -19,6 +20,12 @@
 			<h3>Computer Science BSc Hon</h3>
 			<p><a href="files/portfolio/Network-Analasis-Report.pdf">Network Analysis Report</a> -  This report contains my recommendations regarding a fictional Universitys ICT services for a new building.  It covers what might be required for research laboratories, coffee shops and administration offices.</p>
 			
+			<p><a href="/files/portfolio/Mobile_Embedded_And_Wearable_Technology.pdf">Mobile, Embedded and Wearable Technology</a> - This report covers the design of a custom built device used to monitor <a href="http://en.wikipedia.org/wiki/Cribbing_%28horse%29" target="_BLANK">Cribing</a> in horses. It covers interconenction between devices (Microcontroller, acelorometer and real tiem clock) such as Ineter-Intergrated Circuit (I2C) and Serial Peropheral Interface (SPI) bus. Please see the assignmnet <a href="files/portfolio/Mobile_Embedded_And_Wearable_Technology_Specification.pdf">specification</a></p>
+
+			<p><a href="files/portfolio/Modelling_Persistent_Data.pdf">Modeling Persistent Data</a> - This is a small report detailing the modeling of persistent data using PostgreSQL. Including UML and SQL examples. Please see assignmnet <a href="files/portfolio/Modelling_Persistent_Data_Specification.pdf">specification</a> </p>
+
+			<p><a href="files/portfolio/Website_Usability.pdf">Website Usability</a> - This is a small report reviewing a few commercial websites, and one of my own design, regarding the sites usability and user interaction. Plase see assignmnet <a href="files/portfolio/Website_Usability_Specification.pdf">specifications</a></p>
+
 			<h3>HND Computing</h3>
 			<p>Here is a selection of assignments that I completed during my HND in Computing.  Some of the documents may be a bit confusing as they were written for someone with knowledge of the assignmnet specification.  Saying that they still contain some useful information, if not a little out of date.</p>
 			<p><a href="files/portfolio/NetworkDesignDiskAnalysis.pdf">Network Design and Disk Analysis</a> - This report is split into two sections.  The first being network design, this covers network topology, IP addressing, subnetting and network services.  The second section covers directory encoding using FAT12 and cluster accessing.  The second part is based on an assignment question which is not available, this makes it a little hard to follow.</p>
@@ -26,7 +33,7 @@
 			
 			
 			<h2>Web Design</h2>
-			<p>All of my clients have been local businesses who where in need of a simple site to get their company on the internet.  Alot of the work has been done using <a href="http://wordpress.com" target="_BLANK">Wordpress</a> as I find that it is easy for the clients to manage the site once I have given control to them.  Another reason for using wordpress is that it has an exstenable range of plugins that can be used to increase the functionality of the site.  It is also easy to create a good looking site from the ground up using wordpress functions.</p>
+			<p>All of my clients have been local businesses who were in need of a simple site to get their company on the internet.  Alot of the work has been done using <a href="http://wordpress.com" target="_BLANK">Wordpress</a> as I find that it is easy for the clients to manage the site once I have given control to them.  Another reason for using wordpress is that it has an exstenable range of plugins that can be used to increase the functionality of the site.  It is also easy to create a good looking site from the ground up using wordpress functions.</p>
 			<p><h3>Priory Vets Cardigan</h3>
 			<a href="images/pages/portfolio/prioryvets-large.jpg" rel="shadowbox"><img alt="PrioryVets" border=0 width=700 height=150 src="images/pages/portfolio/prioryvets-small.jpg"/></a><a class="right" href="http://www.prioryvetscardigan.co.uk" target="_BLANK">www.prioryvetscardigan.co.uk</a> 
 			<div class="clear"></div></p>
