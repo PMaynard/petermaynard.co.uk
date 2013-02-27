@@ -120,7 +120,7 @@
 					<li><div class="tweet"></div></li>
 				</ul>
 			</div>
-			<div class="copyright">Copyright &copy; 2006-2011 Peter Maynard &mdash; <a href="http://petermaynard.co.uk/" title="Peter Maynard">Peter Maynard</a></div>
+			<div class="copyright">Copyright &copy; 2006 &mdash; 2012 <a href="http://petermaynard.co.uk/" title="Peter Maynard">Peter Maynard</a></div>
 		</div>
 		
 	</body>
