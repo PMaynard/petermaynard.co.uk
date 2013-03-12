@@ -1,6 +1,5 @@
 
 <h2>Curriculum vitae</h2>
-<p>Download in <a href="files/cv/MAYNARD-CV.pdf">PDF</a> or <a href="files/cv/MAYNARD-CV.odt">ODT</a></p>
 
 <div class="cv2">
 
