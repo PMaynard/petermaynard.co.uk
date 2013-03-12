@@ -66,7 +66,7 @@
 	<li>Create web sites for local companies, mainly using Wordpress.</li>
 	<li>Experience in HTML, CSS, PHP/MySQL, JavaScript, GIMP/Photoshop</li>
 	<ul>
-		<li>For example of web design see my <a href="?id=3">portfolio</a></li>
+		<li>For example of web design see my <a href="?p=portfolio">portfolio</a></li>
 	</ul>
 </ul>
 
