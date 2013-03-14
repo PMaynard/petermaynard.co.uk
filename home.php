@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-<img src="images/pages/profile.jpg" alt="Image of Pete" class="left" />
+<img src="http://port22.co.uk/i/Osaka.jpg" alt="Image of Pete" class="left" />
 <p>Hello, I'm Pete! I'm a computer scientist, currently studying in Aberystwyth UK.  I have a keen interest in computer networks and programming.  I enjoy network security and server administration.</p>
 
 <p>Feel free to add me on any of the social networks above, whilst your here have a look at my <a href="index.php?p=blog">blog</a>, it might have 
