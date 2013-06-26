@@ -1,4 +1,0 @@
-<files MAYNARD-CV.pdf>
- order allow,deny
- allow from all
-</files>
