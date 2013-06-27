@@ -1,0 +1,20 @@
+safe:        false
+auto:        false
+source:      .
+url:         http://localhost
+
+exclude: README.md, Skeleton 
+
+destination: ./public_html
+
+future:      true
+lsi:         false
+pygments:    true 
+markdown:    maruku
+permalink:   /:title 
+
+nav:
+- page: Home
+  permalink: /
+- page: About
+  permalink: /about.html
