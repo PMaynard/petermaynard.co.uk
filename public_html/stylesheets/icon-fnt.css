@@ -1,8 +1,0 @@
-.icon-alone {
-  display: inline-block; /* Fix for clickability issue in WebKit */
-}
-.screen-reader-text { /* Reusable, toolbox kind of class */
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
-}
