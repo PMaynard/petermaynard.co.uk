@@ -7,6 +7,8 @@ This is the source for my [personal site](http://petermaynard.co.uk).
 - Add icon fonts
 - Horizontal Menu
 - Auto open external links in new tab
+- Fav Icon
+- Correct resposiveness.
 - Write content
 
 ## Requirements
