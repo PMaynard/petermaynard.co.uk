@@ -12,19 +12,19 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
-	<link rel="stylesheet" href="stylesheets/icon-fnt.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/base.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/layout.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/icon-fnt.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link rel="shortcut icon" href="images/favicon.ico">
-	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico">
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/images/apple-touch-icon-114x114.png">
 
 </head>
 <body>
@@ -36,20 +36,16 @@
 		<div class="sixteen columns">
 			<h1 class="remove-bottom" style="margin-top: 40px">Pete Maynard</h1>
 			
+			<!-- Navigation -->
 			{% for n in site.nav %}
 				<a href="{{ n.permalink }}">{{ n.page }}</a>
 			{% endfor %}
 
 			<hr />
-		</div>		
-
-		<!-- Navigation -->
-
+		</div>
 
 		<!-- Content -->
-		 <div class="sixteen columns">
-		 	{{ content }}
-		</div>
+		{{ content }}
 	<div>
 </body>
 </html>

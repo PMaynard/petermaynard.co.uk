@@ -10,6 +10,7 @@ This is the source for my [personal site](http://petermaynard.co.uk).
 - Fav Icon
 - Correct resposiveness.
 - Write content
+- Sort out pages so they don't show file extension
 
 ## Requirements
 

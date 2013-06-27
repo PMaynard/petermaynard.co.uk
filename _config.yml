@@ -16,5 +16,12 @@ permalink:   /:title
 nav:
 - page: Home
   permalink: /
+
 - page: About
   permalink: /about.html
+
+- page: Blog
+  permalink: /blog.html
+
+- page: Publications
+  permalink: /pub.html

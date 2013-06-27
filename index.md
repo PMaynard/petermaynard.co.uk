@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: home
 title: Pete Maynard
 ---
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus adipiscing sodales urna, eget fermentum nisi scelerisque eget. Donec vehicula lorem quis felis consectetur tempus. Proin vel tellus arcu. Vestibulum eget libero in libero aliquam vulputate et vitae odio. Suspendisse orci nulla, consequat eget pretium sit amet, ultrices sit amet nibh. Nunc vitae est in nisi semper hendrerit quis ac sapien. Donec lacinia pulvinar hendrerit. Praesent ut pulvinar nisl, vitae bibendum tortor. Nunc posuere diam velit, nec condimentum urna rhoncus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque consequat congue neque id lacinia. Fusce sed tincidunt velit.
 
-Fusce ac est sem. Aenean eros diam, cursus vitae lorem eu, cursus hendrerit elit. Mauris placerat ut nisl non elementum. Maecenas varius ipsum sed tellus tristique venenatis. Proin pretium egestas nisl, sit amet porta leo. Sed a dolor enim. Duis non dapibus purus, quis placerat est. Quisque viverra turpis odio, at lacinia tortor lacinia ut. Nullam aliquet euismod lorem quis dapibus. Curabitur a suscipit velit. Aliquam magna velit, malesuada vel nulla at, scelerisque sollicitudin mauris. Sed condimentum vehicula congue. Duis sed tellus viverra, congue felis rhoncus, aliquam tellus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum faucibus bibendum felis quis euismod. Sed vel augue magna.
+### Quick Bio
+Pete is a research student of Queens University, Belfast.
