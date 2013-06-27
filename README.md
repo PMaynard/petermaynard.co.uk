@@ -1,12 +1,13 @@
 ## Personal Site
 
-This is the source for my [personal site](petermaynard.co.uk).
+This is the source for my [personal site](http://petermaynard.co.uk).
 
 ## TODO
 
 - Add icon fonts
 - Horizontal Menu
-- Content
+- Auto open external links in new tab
+- Write content
 
 ## Requirements
 
