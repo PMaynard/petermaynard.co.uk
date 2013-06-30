@@ -41,9 +41,18 @@
 			<h1 class="remove-bottom" style="margin-top: 40px">Pete Maynard</h1>
 			
 			<!-- Navigation -->
-			{% for n in site.nav %}
-				<a href="{{ n.permalink }}">{{ n.page }}</a>
-			{% endfor %}
+			<div class="main-nav">
+				<ul>
+				{% for n in site.nav %}
+					{% if n.permalink == page.url %}
+						<li><a href="{{ n.permalink }}" id="active">{{ n.page }}</a></li>
+					{% else %}
+						<li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+					{% endif %}
+				{% endfor %}
+				</ul>
+			</div>
+
 
 			<hr />
 		</div>

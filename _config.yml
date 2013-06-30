@@ -15,7 +15,7 @@ permalink:   /:title
 
 nav:
 - page: Home
-  permalink: /
+  permalink: /index.html
 
 - page: About
   permalink: /about.html
