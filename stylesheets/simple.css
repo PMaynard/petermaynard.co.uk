@@ -7,14 +7,7 @@ a {
 	transition: all 0.2s linear;
 }
 
-/* Top Navigation */
-.top-nav {
-	float: right; 
-}
-
-.top-nav a:hover {
-	color: green;
-}
+small { font-size: 12px; float: right; }
 
 /* Main Navigation */
 .main-nav ul
@@ -35,3 +28,10 @@ a {
 .main-nav ul li a:hover {}
 
 .main-nav #active {	font-weight: bold; }
+
+/* Post */
+
+.post h1 { font-size: 20px; line-height: 33px; margin-bottom: 8px; }
+.post h2 { font-size: 20px; line-height: 33px; margin-bottom: 8px; }
+.post h3 { font-size: 20px; line-height: 33px; margin-bottom: 8px; }
+.post h4 { font-size: 20px; line-height: 33px; margin-bottom: 8px; }

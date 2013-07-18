@@ -2,6 +2,6 @@
 layout: home
 title: Pete Maynard
 ---
+Pete is a security research student at Queens University, Belfast.
 
-### Quick Bio
-Pete is a security research student at Queens University, Belfast. He specializes in detecting and developing SCADA exploits.
+He specializes in Cyber Secuirty.
