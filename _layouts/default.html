@@ -31,32 +31,12 @@
 <body>
 
 	<div class="container">
+	<small><a target="_BLANK" href="https://github.com/PMaynard"><i class="icon-github"></i></a> <br/> pgm987-at-gmail.com</small>
 		<!-- Header -->
-		<h5 class="top-nav"> 
-			<a href="#"><i class="icon-key"></i></a> 
-			<a target="_BLANK" href="https://github.com/PMaynard"><i class="icon-github"></i></a> 
-		</h5>
-
 		<div class="sixteen columns">
 			<h1 class="remove-bottom" style="margin-top: 40px">Pete Maynard</h1>
-			
-			<!-- Navigation -->
-			<div class="main-nav">
-				<ul>
-				{% for n in site.nav %}
-					{% if n.permalink == page.url %}
-						<li><a href="{{ n.permalink }}" id="active">{{ n.page }}</a></li>
-					{% else %}
-						<li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
-					{% endif %}
-				{% endfor %}
-				</ul>
-			</div>
-
-
 			<hr />
 		</div>
-
 		<!-- Content -->
 		{{ content }}
 	<div>

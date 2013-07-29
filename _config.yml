@@ -16,9 +16,6 @@ nav:
 - page: Home
   permalink: /index.html
 
-- page: About
-  permalink: /about.html
-
 - page: Blog
   permalink: /blog.html
 
