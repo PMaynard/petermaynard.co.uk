@@ -1,9 +1,8 @@
 safe:        false
-auto:        false
 source:      .
 url:         http://localhost
 
-exclude: README.md, Skeleton 
+exclude: [README.md, Skeleton] 
 
 destination: ./public_html
 
