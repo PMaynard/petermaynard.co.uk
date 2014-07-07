@@ -2,6 +2,6 @@
 layout: home
 title: Pete Maynard
 ---
-Pete is a cyber security research student at Queen's University, Belfast.
+Pete is a PhD Candidate at Queen's University, Belfast.
 
-He specializes in [SCADA](http://en.wikipedia.org/wiki/SCADA) systems.
+He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols
