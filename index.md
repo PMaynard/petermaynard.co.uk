@@ -5,7 +5,14 @@ title: Pete Maynard
 Pete is a PhD student at [CSIT](http://www.csit.qub.ac.uk/), Queen's University, Belfast.  
 He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols.
 
+
 ### Publications
 **Towards Understanding Man-In-The-Middle Attacks on IEC 60870-5-104 SCADA Networks**  
 2nd International Symposium for ICS & SCADA Cyber Security Research 2014  
 *DOI: [http://dx.doi.org/10.14236/ewic/ics-csr2014.5](http://dx.doi.org/10.14236/ewic/ics-csr2014.5)*
+
+
+### Articles
+**Upgrade to core HTTP protocol promises speedier, easier web**  
+The Conversation, 19th Feburary 2015  
+*URL: [https://theconversation.com/upgrade-to-core-http-protocol-promises-speedier-easier-web-37690](https://theconversation.com/upgrade-to-core-http-protocol-promises-speedier-easier-web-37690)*  
