@@ -4,8 +4,8 @@ This is the source for my [personal site](http://petermaynard.co.uk).
 
 ## TODO
 
-- Auto open external links in new tab
-- Correct resposiveness.
+- Auto open external links in new tab.
+- Correct responsiveness.
 
 ## Requirements
 
