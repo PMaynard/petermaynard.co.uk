@@ -8,8 +8,8 @@ destination: ./public_html
 
 future:      true
 lsi:         false
-pygments:    true 
-markdown:    maruku
+highlighter:    null 
+markdown:    Kramdown 
 permalink:   /:title 
 
 nav:
