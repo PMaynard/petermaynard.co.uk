@@ -11,7 +11,7 @@ He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
 2nd International Conference on Information Systems Security and Privacy (Feb 2016)  
-*DOI: Forthcoming* 
+*DOI: Forthcoming* ([Poster PDF](posters/duqu-attack-trees.pdf))
 
 **Investigating Cyber-Physical Attacks against IEC 61850 Photovoltaic Inverter Installations**  
 BooJoong Kang, **Peter Maynard**, Kieran McLaughlin, Sakir Sezer, Filip Andren, Christian Seitl, Friederich Kupzog, Thomas Strasser  
