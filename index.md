@@ -11,6 +11,14 @@ He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols
 2nd International Symposium for ICS & SCADA Cyber Security Research 2014  
 *DOI: <http://dx.doi.org/10.14236/ewic/ics-csr2014.5>*
 
+* * *
+
+#### Book Chapters
+**Secure Communications in Smart Grid: Networking and Protocols**  
+Kieran McLaughlin, Ivo Friedberg, BooJoong Kang, **Peter Maynard**, Sakir Sezer, Gavin McWilliams  
+Smart Grid Security: Innovative Solutions for a Modernized Grid, Elsevier (2015)
+*DOI: <http://dx.doi.org/10.1016/B978-0-12-802122-4.00005-5>*
+
 * * * 
 
 #### Articles
