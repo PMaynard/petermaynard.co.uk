@@ -5,8 +5,19 @@ title: Peter Maynard
 Peter is a PhD student at [CSIT](http://www.csit.qub.ac.uk/), Queen's University, Belfast.  
 He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols.
 
+* * *
 
 #### Conference Papers
+**Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
+**Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
+2nd International Conference on Information Systems Security and Privacy (Feb 2016)  
+*DOI: Forthcoming* 
+
+**Investigating Cyber-Physical Attacks against IEC 61850 Photovoltaic Inverter Installations**  
+BooJoong Kang, **Peter Maynard**, Kieran McLaughlin, Sakir Sezer, Filip Andren, Christian Seitl, Friederich Kupzog, Thomas Strasser  
+Proceedings of 2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)  
+*DOI: <http://dx.doi.org/10.1109/ETFA.2015.7301457>*
+
 **Towards Understanding Man-In-The-Middle Attacks on IEC 60870-5-104 SCADA Networks**  
 **Peter Maynard**, Kieran McLaughlin & Berthold Haberler  
 2nd International Symposium for ICS & SCADA Cyber Security Research 2014  
@@ -17,7 +28,7 @@ He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols
 #### Book Chapters
 **Secure Communications in Smart Grid: Networking and Protocols**  
 Kieran McLaughlin, Ivo Friedberg, BooJoong Kang, **Peter Maynard**, Sakir Sezer, Gavin McWilliams  
-Smart Grid Security: Innovative Solutions for a Modernized Grid, Elsevier (2015)
+Smart Grid Security: Innovative Solutions for a Modernized Grid, Elsevier (2015)  
 *DOI: <http://dx.doi.org/10.1016/B978-0-12-802122-4.00005-5>*
 
 * * * 
