@@ -8,11 +8,6 @@ He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols
 * * *
 
 #### Conference Papers
-**Censorship in the Digital Age: The Political and Technological Challenges for Academics through the Circumvention of Information Control Online**  
-Leonie Maria Tanczer, Ryan McConville, **Peter Maynard**  
-The Journal of Global Security Studies  
-*DOI: Forthcoming*
-
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
 2nd International Conference on Information Systems Security and Privacy (Feb 2016)  
