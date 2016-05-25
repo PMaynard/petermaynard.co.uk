@@ -1,52 +1,38 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
-<head>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Peter Maynard's personal site.">
+    <meta name="author" content="Peter Maynard">
+    <link rel="icon" href="favicon.ico">
 
-	<meta charset="utf-8">
-	<title>{{ page.title }}</title>
-	<meta name="description" content="Some Content">
-	<meta name="author" content="Pete Maynard">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>{{ site.title }}</title>
 
-	<link rel="stylesheet" href="/stylesheets/base.css">
-	<link rel="stylesheet" href="/stylesheets/skeleton.css">
-	<link rel="stylesheet" href="/stylesheets/layout.css">
-	<link rel="stylesheet" href="/stylesheets/icon-fnt.css">
-	<link rel="stylesheet" href="/stylesheets/simple.css">
-	<link rel="stylesheet" href="/stylesheets/icono.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+  </head>
 
-</head>
-<body>
+  <body>
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+       <div class="navbar-header">
+        <a class="navbar-brand" href="/">Pete</a>
+       </div>
+        <ul class="nav navbar-nav pull-right">
+          <li><a href="https://twitter.com/pgmaynard">Twitter</a></li>
+          <li><a href="https://github.com/PMaynard">GitHub</a></li>
+          <li><a href="https://pgp.mit.edu/pks/lookup?op=vindex&search=0x248FC016ABB8D69D">GPG</a></li>
+          <li><a href="https://orcid.org/0000-0002-6267-7530">ORCID</a></li>
+          <li><a href="keys.html">Contact / Keys</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container">
 
-	<div class="container">
-	<small style="text-align: right;">
-		<a href="http://orcid.org/0000-0002-6267-7530">ORCID 0000-0002-6267-7530</a>
-		<a href="mailto:pgm987-@-gmail.com?body=Make sure to correct the email address." title="pgm987-@-gmail.com"><i class="icono-mail">Email</i></a> 
-		<!-- <a target="_BLANK" href="http://orcid.org/0000-0002-6267-7530">0000-0002-6267-7530</a><br /> -->
-		<a target="_BLANK" href="https://github.com/PMaynard" title="GitHub"><i class="icono-terminal">GitHub</i></a>
-		<a target="_BLANK" href="https://twitter.com/pgmaynard" title="Twitter"><i class="icono-twitter">Twitter</i></a>
-		<a target="_BLANK" href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x248FC016ABB8D69D" title="PGP Key - 0xABB8D69D"><i class="icono-chain">PGP Key</i></a>
-		<a href="/keys.html">FingerPrints</a>
-	 </small>
-		<!-- Header -->
-		<div class="sixteen columns">
-			<h1 class="remove-bottom" style="margin-top: 40px">Peter Maynard</h1>
-			<hr />
-		</div>
-		<!-- Content -->
-		{{ content }}
+      {{ content }}
 
-		<div class="eight column">
-				<p><i>All my views are my own and not Queen's University Belfast, content is <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> unless otherwise stated.</i><p>
-		</div>
-	<div>
-</body>
+    </div> 
+  </body>
 </html>

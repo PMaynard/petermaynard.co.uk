@@ -1,13 +1,8 @@
 ---
 layout: home
-title: Peter Maynard
 ---
-Peter is a PhD student at [CSIT](http://www.csit.qub.ac.uk/), Queen's University, Belfast.  
-He specializes in Cyber-Attacks on Critical Infrastructure Systems and Protocols.
 
-* * *
-
-#### Conference Papers
+### Conference Papers
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
 2nd International Conference on Information Systems Security and Privacy (Feb 2016)  
@@ -25,7 +20,7 @@ Proceedings of 2015 IEEE 20th Conference on Emerging Technologies & Factory Auto
 
 * * *
 
-#### Book Chapters
+### Book Chapters
 **Secure Communications in Smart Grid: Networking and Protocols**  
 Kieran McLaughlin, Ivo Friedberg, BooJoong Kang, **Peter Maynard**, Sakir Sezer, Gavin McWilliams  
 Smart Grid Security: Innovative Solutions for a Modernized Grid, Elsevier (2015)  
@@ -33,14 +28,14 @@ Smart Grid Security: Innovative Solutions for a Modernized Grid, Elsevier (2015)
 
 * * * 
 
-#### Articles
+### Articles
 **Upgrade to core HTTP protocol promises speedier, easier web**  
 The Conversation, 19th February 2015  
 *URL: <https://theconversation.com/upgrade-to-core-http-protocol-promises-speedier-easier-web-37690>*  
 
 * * * 
 
-#### Presentation Slides
+### Presentation Slides
 
 **Online Privacy Tips**  
 CryptoParty Belfast, July 2015 ([SlideShare](http://www.slideshare.net/pgmaynard/private-slides), [PDF](slides/CryptoParty-private-slides.pdf))
