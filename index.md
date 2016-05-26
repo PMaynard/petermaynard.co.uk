@@ -16,7 +16,7 @@ Proceedings of 2015 IEEE 20th Conference on Emerging Technologies & Factory Auto
 **Towards Understanding Man-In-The-Middle Attacks on IEC 60870-5-104 SCADA Networks**  
 **Peter Maynard**, Kieran McLaughlin & Berthold Haberler  
 2nd International Symposium for ICS & SCADA Cyber Security Research 2014  
-*DOI: <http://dx.doi.org/10.14236/ewic/ics-csr2014.5>*
+*DOI: <http://dx.doi.org/10.14236/ewic/ics-csr2014.5>* (Presentation [SlideShare](http://www.slideshare.net/pgmaynard/man-inthemiddletalk), [PDF](slides/man-in-the-middle.pdf))
 
 * * *
 
