@@ -12,7 +12,7 @@ R Khan, **P Maynard**, K McLaughlin, D Laverty, S Sezer
 **Censorship in the Digital Age: The Technological Challenges for Academics through the Circumvention of Information Control**  
 Leonie Maria Tanczer, Ryan McConville, **Peter Maynard**  
 Journal of Global Security Studies 2015  
-*DOI: <awaiting>*  
+*DOI: awaiting*  
 
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
