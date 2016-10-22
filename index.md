@@ -3,6 +3,17 @@ layout: home
 ---
 
 ### Conference Papers
+
+**Threat Analysis of BlackEnergy Malware for Synchrophasor based Real-time Control and Monitoring in Smart Grid**  
+R Khan, **P Maynard**, K McLaughlin, D Laverty, S Sezer  
+4th International Symposium for ICS & SCADA Cyber Security Research 2016  
+*DOI: <http://dx.doi.org/10.14236/ewic/ICS2016.7>
+
+**Censorship in the Digital Age: The Technological Challenges for Academics through the Circumvention of Information Control** 
+Leonie Maria Tanczer, Ryan McConville, **Peter Maynard**  
+Journal of Global Security Studies 2015
+*DOI: <awaiting>*  
+
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
 2nd International Conference on Information Systems Security and Privacy (Feb 2016)  
