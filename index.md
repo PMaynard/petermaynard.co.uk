@@ -7,12 +7,12 @@ layout: home
 **Threat Analysis of BlackEnergy Malware for Synchrophasor based Real-time Control and Monitoring in Smart Grid**  
 R Khan, **P Maynard**, K McLaughlin, D Laverty, S Sezer  
 4th International Symposium for ICS & SCADA Cyber Security Research 2016  
-*DOI: <http://dx.doi.org/10.14236/ewic/ICS2016.7>*
+*DOI: <http://dx.doi.org/10.14236/ewic/ICS2016.7>*  
 
-**Censorship in the Digital Age: The Technological Challenges for Academics through the Circumvention of Information Control**  
+**Censorship and Surveillance in the Digital Age: The Technological Challenges for Academics**  
 Leonie Maria Tanczer, Ryan McConville, **Peter Maynard**  
-Journal of Global Security Studies 2015  
-*DOI: awaiting*  
+Journal of Global Security Studies 2016  
+*DOI: <http://dx.doi.org/10.1093/jogss/ogw016>* ([PDF](papers/346.full.pdf))  
 
 **Modelling Duqu 2.0 Malware using Attack Trees with Sequential Conjunction**  
 **Peter Maynard**, Kieran McLaughlin, Sakir Sezer  
