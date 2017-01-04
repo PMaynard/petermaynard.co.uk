@@ -6,7 +6,7 @@ layout: page
 
 | Services ||
 |:-----------|:--|
-|E-mail|pgm987@gmail.com|
+|E-mail|pete@petermaynard.co.uk|
 |XMPP|osaka@matrix.ac|
 |IRC|Osaka@macak.co.uk|
 |IRC|OsakaFoo@freenode.net|
