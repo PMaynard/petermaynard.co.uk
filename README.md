@@ -4,6 +4,7 @@ This repository contains the source code and content for <https://petermaynard.c
 
 ### 
 
+- Self-host fonts
 - Commas between downloads 
 - Author link backs 
 - keyword searching/categories
