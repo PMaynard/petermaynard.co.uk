@@ -1,0 +1,22 @@
+baseURL: "https://petermaynard.co.uk/"
+languageCode: "en-gb"
+title: "Peter Maynard"
+theme: "adsila"
+
+# sectionPagesMenu: main
+# menus:
+#   main: 
+#     slides:
+#       url: /slides/
+#     contact:
+#       identifier: page
+#       url: /contact/
+
+params:
+  twitter: "pgmaynard"
+  github: "pmaynard"
+  gitlab: "pmaynard"
+  linkedin: "pgmaynard"
+  googleScholar: "w2zWvsoAAAAJ"
+  GPG: "0x248FC016ABB8D69D"
+  ORCID: "0000-0002-6267-7530"

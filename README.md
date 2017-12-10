@@ -1,13 +1,9 @@
-## Personal Site
+## Peter Maynard
 
-This is the source for my [personal site](http://petermaynard.co.uk).
+This repository contains the source code and content for <https://petermaynard.co.uk>
 
-## TODO
+### 
 
-- Auto open external links in new tab.
-- Correct responsiveness.
-
-## Requirements
-
-- https://github.com/dhgamache/Skeleton
-- https://github.com/mojombo/jekyll
+- Commas between downloads 
+- Author link backs 
+- keyword searching/categories
