@@ -1,6 +1,7 @@
 ## Peter Maynard
 
 This repository contains the source code and content for <https://petermaynard.co.uk>
+Theme is located at <https://github.com/PMaynard/adsila>
 
 ### TODO
 - Self-host fonts
@@ -9,5 +10,4 @@ This repository contains the source code and content for <https://petermaynard.c
 - keyword searching/categories
 
 ## Bugs
-- Fix bibtex for authors ( separate with 'and' )
 - Fix contact page responsiveness 
