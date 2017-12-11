@@ -12,4 +12,5 @@ doi = ""
 access_url = ""
 pdf_url = "pdf/bsc-covert-coms.pdf"
 slides = ""
+poster = ""
 +++

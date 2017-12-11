@@ -10,5 +10,7 @@ type = "Conference"
 doi = "http://dx.doi.org/10.5220/0005745704650472"
 access_url = ""
 pdf_url = ""
-poster = "posters/duqu-attack-trees.pdf"
+poster = "/posters/duqu-attack-trees.pdf"
+slides = ""
+poster = ""
 +++

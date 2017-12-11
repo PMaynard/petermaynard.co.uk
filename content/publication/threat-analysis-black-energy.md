@@ -11,4 +11,5 @@ doi = "http://dx.doi.org/10.14236/ewic/ICS2016.7"
 access_url = ""
 pdf_url = "http://ewic.bcs.org/upload/pdf/ewic_icscsr2016_paper7.pdf"
 slides = ""
+poster = ""
 +++

@@ -11,4 +11,5 @@ doi = "http://dx.doi.org/10.14236/ewic/ics-csr2014.5"
 pdf_url = "http://ewic.bcs.org/content/ConMediaFile/24427"
 slides = "/slides/man-in-the-middle.pdf"
 access_url = ""
+poster = ""
 +++

@@ -11,4 +11,5 @@ doi = "http://dx.doi.org/10.1109/ETFA.2015.7301457"
 access_url = ""
 pdf_url = ""
 slides = ""
+poster = ""
 +++
