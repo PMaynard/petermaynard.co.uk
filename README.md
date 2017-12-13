@@ -8,6 +8,7 @@ Theme is located at <https://github.com/PMaynard/adsila>
 - Commas between downloads 
 - Author link backs 
 - keyword searching/categories
+- Scale better on larger screens 
 
 ## Bugs
 - Fix contact page responsiveness 
