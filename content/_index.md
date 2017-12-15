@@ -10,4 +10,4 @@ From 2013-2018, Pete has been working on his PhD thesis titled 'Methods for Mode
 
 From 2009-2013, Pete completed his undergraduate degree in computer science at [Aberystwyth University](https://www.aber.ac.uk/en) in Wales, which included a one year industrial work placement (2012). 
 
-From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembrokeshire Collage](http://www.pembrokeshire.ac.uk/), in conjunction with University of Glamorgan, now merged with [University of South Wales](http://www.southwales.ac.uk) 
+From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembrokeshire Collage](http://www.pembrokeshire.ac.uk/), in conjunction with University of Glamorgan, now merged with [University of South Wales](http://www.southwales.ac.uk).
