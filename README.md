@@ -9,6 +9,7 @@ Theme is located at <https://github.com/PMaynard/adsila>
 - Author link backs 
 - keyword searching/categories
 - Scale better on larger screens 
+- Webarchive project pages 
 
 ## Bugs
 - Fix contact page responsiveness 
