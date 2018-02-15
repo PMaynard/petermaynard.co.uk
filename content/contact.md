@@ -19,5 +19,6 @@ title: "Contact"
 
 ### More of Pete's Sites
 
+- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
 - [NationPigeon](https://nationpigeon.com) - Personal blog.
 - [Port 22](https://port22.co.uk) - Security news aggregation.
