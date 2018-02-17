@@ -16,7 +16,7 @@ From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembro
 
 ### Activities 
 
-- Shadow PC [TMA Conference](http://tma.ifip.org/2018/shadow-pc/)
+- Shadow Program Committee [TMA Conference](http://tma.ifip.org/2018/shadow-pc/)
 - Session Chair for 'Authentication, Privacy and Security Models' at [ICISSP](https://web.archive.org/web/http://www.icissp.org/?y=2018) Jan' 2018
 - Completed SANS [ICS515](https://web.archive.org/web/https://www.sans.org/course/industrial-control-system-active-defense-and-incident-response) Nov' 2017
 
