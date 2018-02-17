@@ -2,8 +2,6 @@
 title: Peter Maynard
 --- 
 
-### Bio
-
 Since June 2017, Pete has been a researcher at [Queen's University Belfast](https://qub.ac.uk) (QUB), working on an EPSRC project Analysing and Detecting Advanced Multi-stage Attacks against ICS ([ADAMA](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N022866/1))
 
 For a while (2016\17) Pete worked in the [IT-Innovation Centre](http://www.it-innovation.soton.ac.uk/), part of Southampton University, where he worked on two EU H2020 projects [5G-ENSURE](https://web.archive.org/web/http://www.5gensure.eu/) and [RESTASSURED](https://web.archive.org/web/https://restassuredh2020.eu/).
@@ -16,9 +14,9 @@ From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembro
 
 ### Activities 
 
-- Shadow Program Committee [TMA Conference](http://tma.ifip.org/2018/shadow-pc/)
-- Session Chair for 'Authentication, Privacy and Security Models' at [ICISSP](https://web.archive.org/web/http://www.icissp.org/?y=2018) Jan' 2018
-- Completed SANS [ICS515](https://web.archive.org/web/https://www.sans.org/course/industrial-control-system-active-defense-and-incident-response) Nov' 2017
+- Shadow Program Committee for  [IFIP TMA Conference](http://tma.ifip.org/2018/shadow-pc/) June 2018 
+- Session Chair for 'Authentication, Privacy and Security Models' at [ICISSP](https://web.archive.org/web/http://www.icissp.org/?y=2018) January 2018
+- Completed SANS [ICS515](https://web.archive.org/web/https://www.sans.org/course/industrial-control-system-active-defense-and-incident-response) November 2017
 
 ### Memberships
 
