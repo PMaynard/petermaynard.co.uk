@@ -2,6 +2,7 @@ baseURL: "https://petermaynard.co.uk/"
 languageCode: "en-gb"
 title: "Peter Maynard"
 theme: "adsila"
+publishDir: public_html 
 
 # sectionPagesMenu: main
 # menus:
