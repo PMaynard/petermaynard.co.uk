@@ -21,3 +21,4 @@ From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembro
 ### Memberships
 
 - [Internet Society](https://www.internetsociety.org/) (#182573)
+- [ISOC Cybersecurity SIG](https://www.cybersecuritysig.org/) (#748201)
