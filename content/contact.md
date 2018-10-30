@@ -9,6 +9,7 @@ title: "Contact"
 | E-mail | pete@petermaynard.co.uk|
 | IRC | Osaka@macak.co.uk|
 | IRC | OsakaFoo@freenode.net|
+| Matrix| Pete@port22.co.uk | 
 
 ### Fingerprints
 
@@ -19,6 +20,9 @@ title: "Contact"
 
 ### More of Pete's Sites
 
-- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
 - [NationPigeon](https://nationpigeon.com) - Personal blog.
 - [Port 22](https://port22.co.uk) - Security news aggregation.
+- [Silent Orbit](https://silentorbit.space/) - Silent Orbit provides the latest space related news, in a clear and concise manner.
+- [scada.xyz](https://scada.xyz) - Content specifically regarding SCADA/ICS.
+	- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
+- [VisBSD](https://visbsd.port22.co.uk/) - Visual BSD is a web index of packages for systems using the pkg package manager.

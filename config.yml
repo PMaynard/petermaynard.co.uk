@@ -21,3 +21,6 @@ params:
   googleScholar: "w2zWvsoAAAAJ"
   GPG: "0x248FC016ABB8D69D"
   ORCID: "0000-0002-6267-7530"
+
+blackfriday:
+  hrefTargetBlank: true
