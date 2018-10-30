@@ -7,8 +7,6 @@ title: "Contact"
 |||
 |:-----------|:--|
 | E-mail | pete@petermaynard.co.uk|
-| IRC | Osaka@macak.co.uk|
-| IRC | OsakaFoo@freenode.net|
 | Matrix| Pete@port22.co.uk | 
 
 ### Fingerprints
