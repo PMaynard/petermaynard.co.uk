@@ -2,6 +2,9 @@
 title: "Slides"
 --- 
 
+**An Open Framework for Deploying Experimental SCADA Testbed Networks**  
+ICS-CSR, Hamburg Germany, August 2018 ([SlideShare](https://www.slideshare.net/pgmaynard/an-open-framework-for-deploying-experimental-scada-testbed-networks), [PDF](/slides/2018-09-30-ICS-CSR-Open-ICS-Framework.pdf))
+
 **Online Privacy Tips**  
 CryptoParty Belfast, July 2015 ([SlideShare](http://www.slideshare.net/pgmaynard/private-slides), [PDF](/slides/CryptoParty-private-slides.pdf))
 
