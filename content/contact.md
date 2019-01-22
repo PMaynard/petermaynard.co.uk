@@ -2,12 +2,9 @@
 title: "Contact"
 ---
 
-## Contact 
+Feel free to contact me via email or [Matrix IM](https://matrix.org) at the follow address:
 
-|||
-|:-----------|:--|
-| E-mail | pete@petermaynard.co.uk|
-| Matrix| Pete@port22.co.uk | 
+	pete@port22.co.uk 
 
 ### Fingerprints
 
