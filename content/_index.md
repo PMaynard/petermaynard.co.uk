@@ -2,7 +2,7 @@
 title: Peter Maynard
 --- 
 
-Pete is PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). Where he runs the Network Security (NetSec) [reading group](https://blogs.qub.ac.uk/netsec/). His research interests include:
+Pete is PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). His research interests include:
 
 - Network protocols and networking architectures
 - Information Centric Networking 
@@ -10,6 +10,8 @@ Pete is PostDoc at [Queen's University Belfast](https://qub.ac.uk) working withi
 - Intrusion Detection Systems (both host and network)
 - Securing open-source and free-software
 - Industrial control and IIoT security issues 
+
+He runs the Network Security ([NetSec](https://blogs.qub.ac.uk/netsec/)) reading group, first Friday of every month.
 
 From 2017-2018, Pete worked on an EPSRC project Analysing and Detecting Advanced Multi-stage Attacks against ICS ([ADAMA](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N022866/1))
 
