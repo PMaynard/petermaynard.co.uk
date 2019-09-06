@@ -2,7 +2,16 @@
 title: Peter Maynard
 --- 
 
-Since June 2017, Pete has been a researcher at [Queen's University Belfast](https://qub.ac.uk) (QUB), working on an EPSRC project Analysing and Detecting Advanced Multi-stage Attacks against ICS ([ADAMA](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N022866/1))
+Pete is PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). Where he runs the Network Security (NetSec) [reading group](https://blogs.qub.ac.uk/netsec/). His research interests include:
+
+- Network protocols and networking architectures
+- Information Centric Networking 
+- Privacy preserving communication systems
+- Intrusion Detection Systems (both host and network)
+- Securing open-source and free-software
+- Industrial control and IIoT security issues 
+
+From 2017-2018, Pete worked on an EPSRC project Analysing and Detecting Advanced Multi-stage Attacks against ICS ([ADAMA](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N022866/1))
 
 For a while (2016\17) Pete worked in the [IT-Innovation Centre](http://www.it-innovation.soton.ac.uk/), part of Southampton University, where he worked on two EU H2020 projects [5G-ENSURE](https://web.archive.org/web/http://www.5gensure.eu/) and [RESTASSURED](https://web.archive.org/web/https://restassuredh2020.eu/).
 
