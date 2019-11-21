@@ -1,0 +1,3 @@
+[submodule "themes/adsila"]
+	path = themes/adsila
+	url = https://github.com/PMaynard/adsila.git
