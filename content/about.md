@@ -2,9 +2,11 @@
 title: "About"
 ---
 
-I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https://github.com/PMaynard)] mostly for half finished ideas and projects. I [scrobble](https://www.thefreedictionary.com/scrobble) my music listing habbits, this can be viewed over at [last.fm](https://www.last.fm/user/intel17). Feel free to take a look at some of the other domains I maintain (below), I try to sperate diferrent concepts into specifc domains.
+# misc.
 
-# See Also
+I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https://github.com/PMaynard)] mostly half finished ideas and projects. I [scrobble](https://www.thefreedictionary.com/scrobble) my music listening habits, this can be viewed over at [last.fm](https://www.last.fm/user/intel17). Feel free to take a look at some of the other domains I maintain (below), I try to separate different concepts into specific domains.
+
+# see also
 
 - [NationPigeon](https://nationpigeon.com) - Personal blog.
 - [Port 22](https://port22.co.uk) - Security news aggregation.
@@ -14,13 +16,13 @@ I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https
 	- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
 - [just-paranoid.net](https://just-paranoid.net) - Hosting and networking service.
 
-# Contact
+# contact
 
 Feel free to contact me via [email](https://sedna.cc/net/net-im/email/) or [matrix](https://matrix.org) at the following address:
 
 	pete@port22.co.uk 
 
-## Fingerprints
+## fingerprints
 
 |||
 |:--|:--|
