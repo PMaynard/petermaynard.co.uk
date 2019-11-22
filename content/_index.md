@@ -2,7 +2,7 @@
 title: Peter Maynard
 --- 
 
-Pete is PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). His research interests include:
+Pete is a PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). His research interests include:
 
 - Network protocols and networking architectures
 - Information Centric Networking 
