@@ -25,6 +25,7 @@ From 2007-2009, Pete completed a Higher National Diploma in Computing at [Pembro
 
 ### Activities 
 
+- Reviewer for [Oxford Journal of Cybersecurity](https://academic.oup.com/cybersecurity) November 2019
 - Member of the Technical Programme Committee for [International Symposium for ICS & SCADA Cyber Security Research](http://www.ics-csr.com/) April 2018
 - Shadow Program Committee for  [IFIP TMA Conference](http://tma.ifip.org/2018/shadow-pc/) June 2018 
 - Attended IETF101 (Hackathon) March 2018
