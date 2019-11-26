@@ -8,11 +8,11 @@ abstract = "To perform cyber security research on cyber-physical systems, the in
 
 proceedings = "6th International Symposium for ICS & SCADA Cyber Security Research"
 type = "Conference"
-forthcoming = "true"
-doi = ""
+forthcoming = "false"
+doi = "https://doi.org/10.14236/ewic/icscsr19.12"
 poster = ""
-access_url = ""
-pdf_url = ""
+access_url = "https://pure.qub.ac.uk/en/publications/ics-interaction-testbed-a-platform-for-cyber-physical-security-re"
+pdf_url = "/papers/ics-interaction-testbed-a-platform-for-cyber-physical-security-research.pdf"
 slides = ""
 +++
 
