@@ -11,7 +11,7 @@ Pete is a PostDoc at [Queen's University Belfast](https://qub.ac.uk) working wit
 - Securing open-source and free-software
 - Industrial control and IIoT security issues 
 
-He runs the Network Security ([NetSec](https://blogs.qub.ac.uk/netsec/)) reading group, first Friday of every month.
+He runs the Network Security ([NetSec](https://blogs.qub.ac.uk/netsec/)) reading group, first Friday of the month, and the Belfast BSD user group every third Friday.
 
 From 2017-2018, Pete worked on an EPSRC project Analysing and Detecting Advanced Multi-stage Attacks against ICS ([ADAMA](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N022866/1))
 

@@ -12,9 +12,10 @@ I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https
 - [Port 22](https://port22.co.uk) - Security news aggregation.
 - [Sedna](https://sedna.cc) - A website about Free Software. 
 - [Silent Orbit](https://silentorbit.space/) - Silent Orbit provides the latest space related news, in a clear and concise manner.
-- [scada.xyz](https://scada.xyz) - Content specifically regarding SCADA/ICS.
+- [scada.xyz](https://scada.xyz) - Content specifically regarding SCADA/ICS. [Temp. Offline]
 	- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
 - [just-paranoid.net](https://just-paranoid.net) - Hosting and networking service.
+- [constant-zero.com](https://constant-zero.com) - Journal of my journey into maths and the natural universe.
 
 # contact
 
