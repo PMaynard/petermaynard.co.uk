@@ -13,3 +13,5 @@ slides = "/slides/man-in-the-middle.pdf"
 access_url = ""
 poster = ""
 +++
+
+Code available at <https://github.com/PMaynard/ettercap-104-mitm>
