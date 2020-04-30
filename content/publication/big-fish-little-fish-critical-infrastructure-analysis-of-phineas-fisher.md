@@ -6,7 +6,7 @@ authors = ["Peter Maynard", "Kieran McLaughlin"]
 keywords = []
 abstract = "The hacktivist threat actor is listed in many risk decision documents. Yet their tactics and techniques often remain a mystery. We create a MITRE ATT&CK (ATT&CK) model of a well known hacktivist who goes under the pseudonym of Phineas Fisher, and map that threat to critical infrastructure. The analysis is derived from hacker manifestos, journalist reporting, and official government documentation. This analysis fills a gap in current threat models, to better define what skills and methods a determined hacker might employ. This paper also identifies seven essential mitigations which can be deployed by critical infrastructure operations and asset owners, to prevent such intrusions by hacktivists. We are in the process of contributing this threat actor into the ATT&CK knowledge base."
 
-proceedings = ""
+proceedings = "IEEE Cyber Situational Awareness, Data Analytics and Assessment (CyberSA)"
 type = "Conference"
 forthcoming = "false"
 doi = ""
