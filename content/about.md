@@ -17,6 +17,7 @@ I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https
 	- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
 - [just-paranoid.net](https://just-paranoid.net) - Hosting and networking service.
 - [constant-zero.com](https://constant-zero.com) - Journal of my journey into maths and the natural universe.
+- [linux-application-firewall.org](https://linux-application-firewall.org/) - The Linux Application Firewall (LAF) Project. I'm the project lead for a desktop per-application firewall.  
 
 # contact
 
