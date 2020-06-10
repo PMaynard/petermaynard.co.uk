@@ -17,3 +17,5 @@ slides = ""
 +++
 
 Code available at <https://github.com/pmaynard/mots>
+
+{{< vimeo 427795777 >}}

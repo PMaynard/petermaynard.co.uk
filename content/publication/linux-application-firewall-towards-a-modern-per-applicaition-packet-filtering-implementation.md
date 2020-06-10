@@ -21,3 +21,5 @@ Checkout <https://linux-application-firewall.org/>
 Watch the lightning talk below or over at vimeio <https://vimeo.com/426302331>.
 
 {{< vimeo 426302331 >}}
+
+This talk won **best lightning talk award**! 

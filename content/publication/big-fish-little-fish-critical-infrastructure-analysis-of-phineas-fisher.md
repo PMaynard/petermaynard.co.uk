@@ -17,3 +17,6 @@ slides = ""
 +++
 
 Models available at <https://github.com/PMaynard/Viva-Phineas-Fisher>
+
+{{< vimeo 427790806 >}}
+
