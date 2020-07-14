@@ -34,3 +34,12 @@ Feel free to contact me via [email](https://sedna.cc/net/net-im/email/) or [matr
 | GPG | ```FEF1 FD3D CD50 3E2D E02B EDA2 248F C016 ABB8 D69D``` [[asc.txt](/keys/pete-gpg.asc.txt), [asc](keys/pete-gpg.asc)]|
 | SSH | ```2048 SHA256:snONG4+83 7Anyn6VjZFHY4eR WkQ6oPVC6BXsgdcxTQo``` [[asc.txt](/keys/pete-ssh.pub.asc.txt), [asc](/keys/pete-ssh.pub.asc)] |
 
+# quote
+
+> Less is always more  
+> No fancy metaphor  
+>
+> There is very simple trick  
+> Minimalistic is fantastic  
+
+Minimal feat. Soviet Suprem ([Youtube](https://www.youtube.com/watch?v=WItWTghr98k)), [Dubioza Kolektiv](https://dubioza.org/)
