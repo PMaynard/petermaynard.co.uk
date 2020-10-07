@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title></title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+	
+	<style>
+
+		@media screen and (max-width: 600px){
+			h1, h2, h3, h4, h5 {font-size: 1.5rem;}
+
+			li  {
+				margin-left: -1rem;
+			}
+			[class*="tag-"] {
+				display: none;
+			}
+		}
+
+		html {
+			color: #707070;
+			background-color: #f5efeb;
+			font-family: "Raleway", sans-serif;
+			font-weight: normal;
+		}
+
+		body {
+			font-size: 1.3rem;
+			max-width: 800px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		ul {
+			padding-left: 2rem;
+			list-style-type: square;
+			list-style-position: outside;
+			list-style-image: none;
+		}
+
+		li {
+			padding-top: .3rem;
+		}
+
+		.wrap {
+			background-color: #fff;
+			padding: 1.2rem;
+			border-radius: .9rem;
+		}
+
+		.wrap a {
+			color: inherit;
+		}
+
+		h1, h2, h3, h4, h5 {
+			font-family: 'Playfair Display', serif;
+			margin: .8rem;
+			color: #3c3c3c;
+			font-variant: small-caps;
+			border-bottom: .3rem solid #FFA07A;
+		}
+
+		.name {
+			color: black;
+		}
+		
+		.uris {
+			float: right;
+		}
+
+		.uris a {
+			color: #FFA07A;
+		}
+
+		.cat-description {
+			font-size: 1.3rem;
+			font-variant: normal;
+			font-weight: normal;
+		}
+
+
+		.description {
+			padding-left: .5rem;
+		}
+
+		[class*="tag-"] {
+			background-color: #C7D7DC;
+		    vertical-align: middle;
+		    line-height: 1.5rem;
+			margin-right: .5rem;
+			padding-left: .2rem;
+			padding-right: .2rem;
+			font-size: 1rem;
+			border-radius: .1rem;
+			float: right;
+		}
+
+		[class*="out-"] {
+			font-family: "Lucida Console", Monaco, monospace;
+			font-size: 1.2rem;
+		}
+
+		.out-foot {
+			margin-top: .3rem;
+			text-align:center;
+		}
+
+		.out-top {
+			color: #3c3c3c;
+			text-align: right;
+			padding-right: 3rem;
+			margin-bottom: 1rem;
+			margin-top: 2rem;
+		}
+		.out-top a {
+			text-decoration: none;
+			color: inherit;
+		}
+	</style>
+</head>
+
+<body>
+
+<div class="out-top">Pete's Projects <br/> &lt;<a href="https://petermaynard.co.uk/">https://petermaynard.co.uk/</a>&gt;</div>
+
+<div class="wrap">
+<ul>
+<li><h1 id="net-websites-daemons-and-anything-with-a-socket">net <span class="cat-description">Websites, daemons, and anything with a socket</span></h1>
+<ul>
+<li><span class="name">Linux Application Firewall</span> <span class="uris"> ( <a href="https://github.com/matrix-ac/LAF">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-kernel">kernel</span> </span>
+<div class="description">
+Linux Application Firewall (LAF) is an application firewall for Linux. It allows users full control over which applications are allowed to communicate over the network.
+</div></li>
+<li><span class="name">Libtls Example</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/c-tls-example">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-libtls">libtls</span> </span>
+<div class="description">
+Example code for libtls (<a href="https://en.wikipedia.org/wiki/LibreSSL">LibreSSL</a>) using the C bindings.
+</div></li>
+<li><span class="name">Gwen</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/gwen">git</a> )</span> <span class="tags"><span class="tag-go">go</span> </span>
+<div class="description">
+HTTP and TCP Service Monitoring
+</div></li>
+<li><span class="name">Intruding PI (IPI)</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/intruding-pi">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-[pf_ring](https://github.com/ntop/PF_RING)"><a href="https://github.com/ntop/PF_RING">pf_ring</a></span> </span>
+<div class="description">
+Intruding PI is a lightweight passive IDS, designed for the Raspberry PI but suitable for large scale operations.
+</div></li>
+<li><span class="name">zone</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/zone">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-[raylib](https://www.raylib.com/)"><a href="https://www.raylib.com/">raylib</a></span> </span>
+<div class="description">
+Zone is a <a href="https://gemini.circumlunar.space/">Project Gemini</a>, HTTP, and (maybe) Gopher request generator and response parser. There is also a graphical element to this project too.
+</div></li>
+<li><h2 id="services-network-services-for-fun-and-profit">services <span class="cat-description">Network services for fun and profit (!)</span></h2>
+<ul>
+<li><span class="name">Core//</span> <span class="uris"> ( <a href="https://github.com/PMaynard/core">git</a> )</span> <span class="tags"><span class="tag-go">go</span> <span class="tag-vagrant">vagrant</span> <span class="tag-ansible">ansible</span> <span class="tag-rest">rest</span> <span class="tag-postgres">postgres</span> <span class="tag-gis">gis</span> </span>
+<div class="description">
+A Go REST endpoint, that queries PostgreSQL databse for GIS specific data. Large set of Go test cases with local provisioning using Vagrant and ansible.
+</div></li>
+<li><span class="name">searx</span> <span class="uris"> ( <a href="https://github.com/PMaynard/searx">git</a> )</span> <span class="tags"><span class="tag-ansible">ansible</span> </span>
+<div class="description">
+An Ansible role that installs the <a href="https://en.wikipedia.org/wiki/Searx">Searx</a> metasearch engine
+</div></li>
+<li><span class="name">Tor Hidden Service</span> <span class="uris"> ( <a href="https://github.com/PMaynard/Hidden-Service-Tunnel">git</a> )</span> <span class="tags"><span class="tag-ansible">ansible</span> </span>
+<div class="description">
+An Ansible role that configures a Tor hidden service with port knocking
+</div></li>
+<li><span class="name">Zorg Stream</span> <span class="uris"> ( <a href="https://github.com/PMaynard/zorg-stream.git">git</a> )</span> <span class="tags"><span class="tag-python">python</span> </span>
+<div class="description">
+Gets a list of songs from some select last.fm users, downloads the first result from youtube.
+</div></li>
+<li><span class="name">aLink</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/alink">git</a> )</span> <span class="tags"><span class="tag-ada">ada</span> <span class="tag-rest">rest</span> </span>
+<div class="description">
+This is a simple book mark service built with ada.
+</div></li>
+<li><span class="name">Net Plot</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/net-plot">git</a> )</span> <span class="tags"><span class="tag-go">go</span> <span class="tag-rrdtool">rrdtool</span> </span>
+<div class="description">
+This program listens for TCP connections which contain a 4 byte value. The value is converted from scientific notation into a (.6) float. Then added to a rrd file for graphing.
+</div></li>
+<li><span class="name">Display CadlDAV</span> <span class="uris"> ( <a href="https://github.com/PMaynard/display-cadldav">git</a> )</span> <span class="tags"><span class="tag-caldav">caldav</span> <span class="tag-python">python</span> </span>
+<div class="description">
+A simple script to generate a read only HTML/JS/CSS calendar from icalendar files.
+</div></li>
+<li><span class="name">TransBoot</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/transboot">git</a> )</span> <span class="tags"><span class="tag-ipxe">ipxe</span> <span class="tag-unix">unix</span> <span class="tag-http">http</span> </span>
+<div class="description">
+TransBoot’s target audience are day-to-day Linux users, who may not have the technical know how to create a recovery disk (USB, CD, etc.) and reconfigure their desktop. TransBoot will allow users to upload private pre-configured recovery images that can be deployed onto Linux machines via the internet.
+</div></li>
+<li><span class="name">TransBoot-ipxe</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/transboot-ipxe">git</a> )</span> <span class="tags"><span class="tag-ipxe">ipxe</span> <span class="tag-unix">unix</span> <span class="tag-http">http</span> </span></li>
+<li><span class="name">Visual BSD</span> <span class="uris"> ( <a href="https://gitlab.com/port22/visbsd">git</a> )</span> <span class="tags"><span class="tag-rest">rest</span> <span class="tag-python">python</span> <span class="tag-pkg">pkg</span> </span>
+<div class="description">
+An attempt to create a visually pretty index of packages for systems that use <a href="https://github.com/freebsd/pkg">pkg</a>.
+</div></li>
+<li><span class="name">MPD Live</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/mpd-live">git</a> )</span> <span class="tags"><span class="tag-websocket">websocket</span> <span class="tag-c">c</span> </span>
+<div class="description">
+MPD Status information over websockets
+</div></li>
+</ul></li>
+<li><h2 id="http-anything-that-uses-http">http <span class="cat-description">Anything that uses HTTP</span></h2>
+<ul>
+<li><h3 id="websites">Websites <span class="cat-description"></span></h3>
+<ul>
+<li><span class="name"><a href="https://petermaynard.co.uk">petermaynard.co.uk</a></span> <span class="uris"> ( <a href="https://petermaynard.co.uk">www</a> <a href="https://github.com/PMaynard/personal-site">git</a> )</span> <span class="tags"><span class="tag-hugo">hugo</span> </span>
+<div class="description">
+Personal Site
+</div></li>
+<li><span class="name"><a href="https://nationpigeon.com">nationpigeon.com</a></span> <span class="uris"> ( <a href="https://nationpigeon.com">www</a> <a href="https://gitlab.com/PMaynard/nationpigeon.com">git</a> )</span> <span class="tags"><span class="tag-hugo">hugo</span> </span>
+<div class="description">
+Personal Blog
+</div></li>
+<li><h4 id="port-22-security-news-feed">Port 22 <span class="cat-description">Security News Feed</span></h4>
+<ul>
+<li><span class="name"><a href="https://port22.co.uk">Static Generator</a></span> <span class="uris"> ( <a href="https://port22.co.uk">www</a> <a href="https://gitlab.com/port22/static-generator">git</a> )</span> <span class="tags"><span class="tag-hugo">hugo</span> </span>
+<div class="description">
+Static Site Generator
+</div></li>
+<li><span class="name"><a href="https://port22.co.uk">Feed Backend</a></span> <span class="uris"> ( <a href="https://port22.co.uk">www</a> <a href="https://gitlab.com/port22/feed-backend">git</a> )</span> <span class="tags"><span class="tag-rss">rss</span> <span class="tag-python">python</span> </span>
+<div class="description">
+Aggregates RSS/ATOM feeds.
+</div></li>
+</ul></li>
+<li><span class="name"><a href="https://unique-designation.net">unique-designation.net</a></span> <span class="uris"> ( <a href="https://unique-designation.net">www</a> <a href="https://gitlab.com/PMaynard/unique-designation.net">git</a> )</span> <span class="tags"><span class="tag-pandoc">pandoc</span> <span class="tag-make">make</span> </span>
+<div class="description">
+Site dedicated to Information-Centric Networking (ICN).
+</div></li>
+<li><span class="name"><a href="https://sedna.cc">sedna.cc</a></span> <span class="uris"> ( <a href="https://sedna.cc">www</a> <a href="https://gitlab.com/PMaynard/sedna.cc">git</a> )</span> <span class="tags"><span class="tag-hugo">hugo</span> </span>
+<div class="description">
+A website about Free Software
+</div></li>
+<li><span class="name"><a href="https://silentorbit.space">silent-orbit.space</a></span> <span class="uris"> ( <a href="https://silentorbit.space">www</a> <a href="https://gitlab.com/silent-orbit/silentorbit.space">git</a> )</span> <span class="tags"><span class="tag-hugo">hugo</span> <span class="tag-rest">rest</span> </span>
+<div class="description">
+WIP: Silent Orbit provides the latest space related news in a clear and concise manner. With a REST endpoint for all indexed organisations and missions.
+</div></li>
+<li><span class="name"><a href="https://just-paranoid.net">just-paranoid.net</a></span> <span class="uris"> ( <a href="https://just-paranoid.net">www</a> <a href="https://gitlab.com/PMaynard/just-paranoid.net">git</a> )</span> <span class="tags"><span class="tag-make">make</span> </span>
+<div class="description">
+Hosting and networking services.
+</div></li>
+<li><span class="name"><a href="https://unchartedsecurity.com">unchartedsecurity.com</a></span> <span class="uris"> ( <a href="https://unchartedsecurity.com">www</a> <a href="https://gitlab.com/PMaynard/unchartedsecurity.com">git</a> )</span> <span class="tags"><span class="tag-make">make</span> </span>
+<div class="description">
+Security Consultancy
+</div></li>
+</ul></li>
+<li><h3 id="themes-mostly-for-hugo">themes <span class="cat-description">Mostly for <a href="https://gohugo.io/">Hugo</a></span></h3>
+<ul>
+<li><span class="name">Adsila</span> <span class="uris"> ( <a href="https://github.com/PMaynard/adsila">git</a> )</span>
+<div class="description">
+Theme For Academics
+</div></li>
+<li><span class="name">Sedna</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/sedna-theme">git</a> )</span><br />
+</li>
+<li><span class="name"><a href="https://github.com/gyorb/hugo-dusk">Dusk</a>: Fork for nationpigeon.com</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/hugo-nationpigeon">git</a> )</span><br />
+</li>
+</ul></li>
+<li><h3 id="matrix-decentralised-chat-protocol">matrix <span class="cat-description">Decentralised Chat Protocol</span></h3>
+<ul>
+<li><span class="name">C Matrix</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/c-matrix">git</a> )</span> <span class="tags"><span class="tag-rest">rest</span> <span class="tag-c">c</span> </span>
+<div class="description">
+A C library for the Matrix IM API
+</div></li>
+<li><span class="name">Sentinel</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/sentinel">git</a> )</span> <span class="tags"><span class="tag-rest">rest</span> <span class="tag-python">python</span> </span>
+<div class="description">
+Matrix Bot
+</div></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><h1 id="command-cli-based-projects">command <span class="cat-description">CLI Based Projects</span></h1>
+<ul>
+<li><span class="name">TransLink CLI</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/translink-cli">git</a> )</span> <span class="tags"><span class="tag-shell">shell</span> <span class="tag-rest">rest</span> </span>
+<div class="description">
+Query TransLink (Belfast, Ireland) bus and train times via the shell.
+</div></li>
+<li><span class="name">lintex</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/lintex">git</a> )</span> <span class="tags"><span class="tag-go">go</span> <span class="tag-tex">tex</span> </span>
+<div class="description">
+TeX Linter (lintex) is a tool to check what is and is not referenced within a tex file. With increasing support for more checks.
+</div></li>
+</ul></li>
+<li><h1 id="graphical-any-guivisual-projects">graphical <span class="cat-description">Any GUI/Visual Projects</span></h1>
+<ul>
+<li><span class="name">pft</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/pft">git</a> )</span> <span class="tags"><span class="tag-qt">qt</span> <span class="tag-python">python</span> </span>
+<div class="description">
+Pete’s Fancy Typer (pft), A simple text editor using Qt and trying to follow some of the principles from Better Web Type.
+</div></li>
+<li><span class="name">taxi</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/taxi">git</a> )</span> <span class="tags"><span class="tag-[imgui](https://github.com/ocornut/imgui)"><a href="https://github.com/ocornut/imgui">imgui</a></span> <span class="tag-cpp">cpp</span> </span>
+<div class="description">
+WIP: Simple, lightweight file manager.
+</div></li>
+<li><span class="name">opengl-meson</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/opengl-meson">git</a> )</span> <span class="tags"><span class="tag-opengl">opengl</span> <span class="tag-c">c</span> <span class="tag-meson">meson</span> </span>
+<div class="description">
+Meson and C build for simple OpenGL, GLEW, and GLFW.
+</div></li>
+<li><span class="name">vulkan-meson</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/vulkan-meson">git</a> )</span> <span class="tags"><span class="tag-vulkan">vulkan</span> <span class="tag-c">c</span> <span class="tag-meson">meson</span> </span>
+<div class="description">
+Meson and C build of the <a href="https://vulkan-tutorial.com">Vulkan tutorial</a>.
+</div></li>
+<li><h2 id="wayland-replacement-for-xorg-the-future">wayland <span class="cat-description">Replacement for Xorg, the future!</span></h2>
+<ul>
+<li><span class="name">wonky</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/wonky">git</a> )</span> <span class="tags"><span class="tag-wayland">wayland</span> <span class="tag-c">c</span> </span>
+<div class="description">
+A conky for wayland.
+</div></li>
+</ul></li>
+</ul></li>
+<li><h1 id="operating-systems">operating systems <span class="cat-description"></span></h1>
+<ul>
+<li><span class="name">Antwerp Smerle</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/antwerp-smerle">git</a> )</span> <span class="tags"><span class="tag-unix">unix</span> <span class="tag-shell">shell</span> </span>
+<div class="description">
+The one true portable media player. Antwerp Smerle, is a pigeon. This project is about creating a MP3 player/Podcatcher/Internet Streaming device using <a href="https://postmarketos.org/">postmarketOS</a> and a RaspberryPi Zero.
+</div></li>
+</ul></li>
+<li><h1 id="security">security <span class="cat-description"></span></h1>
+<ul>
+<li><span class="name">convey</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/convey">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-unix">unix</span> <span class="tag-irc">irc</span> <span class="tag-posix">posix</span> </span>
+<div class="description">
+Zero-Trust IRC Daemon/Client. An experiment in Linux and FreeBSD sandboxing.
+</div></li>
+<li><h2 id="routing">routing <span class="cat-description"></span></h2>
+<ul>
+<li><span class="name">ISOC: Secure Global Routing</span> <span class="uris"> ( <a href="https://github.com/PMaynard/Secure-Global-Routing">git</a> )</span> <span class="tags"><span class="tag-[mininet](https://mininet.org/)"><a href="https://mininet.org/">mininet</a></span> <span class="tag-bgp">bgp</span> </span>
+<div class="description">
+Internet Society training, securing BGP with origin filtering. A Mininet BGP testbed, and write up.
+</div></li>
+</ul></li>
+<li><h2 id="covert">covert <span class="cat-description"></span></h2>
+<ul>
+<li><span class="name">Covert Comms Talk</span> <span class="uris"> ( <a href="https://github.com/PMaynard/covert-comms-talk">git</a> )</span>
+<div class="description">
+BCS Wales, undergraduate project. Covert communication over ICMP.
+</div></li>
+</ul></li>
+</ul></li>
+<li><h1 id="personal">personal <span class="cat-description"></span></h1>
+<ul>
+<li><span class="name">CV</span> <span class="uris"> ( <a href="https://github.com/PMaynard/cv">git</a> )</span> <span class="tags"><span class="tag-life">life</span> <span class="tag-tex">tex</span> </span></li>
+<li><span class="name">Dotfiles</span> <span class="uris"> ( <a href="https://github.com/PMaynard/scripts-robot">git</a> )</span> <span class="tags"><span class="tag-unix">unix</span> <span class="tag-shell">shell</span> </span>
+<div class="description">
+My personal dotfiles, you’ll need stow installed.
+</div></li>
+</ul></li>
+<li><h1 id="academic-related-to-published-research">academic <span class="cat-description">Related to <a href="https://petermaynard.co.uk/publication/">published</a> research</span></h1>
+<ul>
+<li><h2 id="experiments">experiments <span class="cat-description"></span></h2>
+<ul>
+<li><span class="name">Man-on-the-Side Attacks</span> <span class="uris"> ( <a href="https://arxiv.org/abs/2004.14334">paper</a> <a href="https://github.com/PMaynard/mots">git</a> )</span> <span class="tags"><span class="tag-python">python</span> <span class="tag-iec104">iec104</span> </span>
+<div class="description">
+Man-on-the-Side (MotS) attacks came to attention after the Edward Snowden revelations, which described large scale pervasive monitoring of the Internet’s infrastructure. MotS is a weaker form of attack compared to a Man-in-the-Middle (MitM). A MotS attack allows an adversary to read and inject packets, but not modify packets sent by other hosts. This project contains the source code to perform MotS on HTTP and IEC60870-5-104.
+</div></li>
+<li><span class="name">Ettercap IEC104 Plugin</span> <span class="uris"> ( <a href="https://petermaynard.co.uk/publication/towards-understanding-mitm-attacks-on-iec-608750-5-104-scada-networks/">paper</a> <a href="https://github.com/PMaynard/ettercap-104-mitm">git</a> )</span> <span class="tags"><span class="tag-c">c</span> <span class="tag-iec104">iec104</span> </span>
+<div class="description">
+Plugin for performing Man-in-the-Middle (MitM) attacks on the IEC60870-5-104 field bus protocol.
+</div></li>
+<li><span class="name">An Open SCADA Testbed</span> <span class="uris"> ( <a href="https://petermaynard.co.uk/publication/an-open-framework-for-deploying-experimental-scada-testbed-networks/">paper</a> <a href="https://github.com/PMaynard/ICS-TestBed-Framework">git</a> )</span> <span class="tags"><span class="tag-ansible">ansible</span> <span class="tag-vagrant">vagrant</span> <span class="tag-opc-ua">opc-ua</span> <span class="tag-iec104">iec104</span> </span>
+<div class="description">
+A scalable framework for automatically deploying locally (or remotely) a number of virtual machines that replicate a Supervisory Control And Data Acquisition (SCADA) network is proposed. This includes multiple virtual hosts emulating sensors and actuators, with a Human Machine Interface (HMI) controlling the hosts. The presented framework contains a collection of automation scripts which build and deploy a variable number of virtual machines, pre-configured to act as either a Remote Terminal Unit (RTU), HMI or Data Historian. The presented work includes a standards compliant implementation of IEC 60870-5-104 (IEC104) and OPC Unified Architecture (OPC-UA), with the capability to support other protocols such as Modbus-TCP (Modbus) and IEC61850.
+</div></li>
+<li><span class="name">aqua-testbed</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/aqua-testbed">git</a> )</span>
+<div class="description">
+Modbus-TCP and NDN Water treatment testbed.
+</div></li>
+<li><span class="name">Viva Phineas Fisher</span> <span class="uris"> ( <a href="https://arxiv.org/abs/2004.14360">paper</a> <a href="https://github.com/PMaynard/Viva-Phineas-Fisher">git</a> )</span> <span class="tags"><span class="tag-threat modelling">threat modelling</span> </span>
+<div class="description">
+MITRE ATTCK Model of the Hacktivist Phineas Fisher
+</div></li>
+<li><span class="name">NS-3 Modbus-TCP</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/ns-modbus">git</a> )</span> <span class="tags"><span class="tag-ns-3">ns-3</span> <span class="tag-modbus-tcp">modbus-tcp</span> </span>
+<div class="description">
+Modbus Implementation for Network Simulator (NS-3). This codebase is directly taken from the appendix of Mohammad Reza Sahraei’s thesis. I was unable to find a public implementation of of it. Let me know if you know of one, and I’ll redirect to it.
+</div></li>
+</ul></li>
+<li><h2 id="misc-dont-fit-with-the-rest">misc <span class="cat-description">Don’t fit with the rest</span></h2>
+<ul>
+<li><span class="name">Attack Tree Generator</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/attack-tree-generator">git</a> )</span> <span class="tags"><span class="tag-python">python</span> <span class="tag-threat modelling">threat modelling</span> </span>
+<div class="description">
+A script to generate SAND attack trees from text files.
+</div></li>
+<li><span class="name">Auto-NIDS</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/Auto-NIDS">git</a> )</span><br />
+</li>
+<li><span class="name">nrl-core-vm</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/nrl-core-vm">git</a> )</span><br />
+</li>
+<li><span class="name">NetDSS</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/NetDSS">git</a> )</span> <span class="tags"><span class="tag-opendss">opendss</span> <span class="tag-python">python</span> </span>
+<div class="description">
+A Network Distribution System Simulator (NetDSS) based on EPRI’s OpenDSS. –Runs on Linux!–
+</div></li>
+<li><span class="name">NetBSD EPICS</span> <span class="uris"> ( <a href="https://gitlab.com/PMaynard/netbsd-epics">git</a> )</span> <span class="tags"><span class="tag-bsd">bsd</span> <span class="tag-shell">shell</span> <span class="tag-epics">epics</span> </span>
+<div class="description">
+A collection of scripts that downloads, compiles, then creates a NetBSD VM for use with the Experimental Physics and Industrial Control System (<a href="https://epics-controls.org/">EPICS</a>).
+</div></li>
+</ul></li>
+</ul></li>
+</ul>
+<p>54 projects and counting.</p>
+</div>
+
+
+<div class="out-foot">
+	<b>Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</b><br />
+	Updated: Wed 20 May 14:45:30 BST 2020
+</div>
+
+</body>
+<!-- Website by: https://petermaynard.co.uk -->
+</html>

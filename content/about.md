@@ -8,18 +8,25 @@ I've published a collection of code [[1](https://gitlab.com/PMaynard), [2](https
 
 # see also
 
-- [NationPigeon](https://nationpigeon.com) - Personal blog.
+- [Not Just Paranoid](https://not.just-paranoid.net) - Personal Blog.
 - [Port 22](https://port22.co.uk) - Security news aggregation.
+- [just-paranoid.net](https://just-paranoid.net) - Hosting and networking service.
 - [Unique Designation](https://unique-designation.net) - Resource for Information-Centric Networking.
+- [constant-zero.com](https://constant-zero.com) - Journal of my journey into maths and the natural universe.
+- [linux-application-firewall.org](https://linux-application-firewall.org/) - The Linux Application Firewall (LAF) Project. I'm the project lead for a desktop per-application firewall.  
+
+## archived
+
+These domains have expired, at some point I shall host them in archived form:
+
 - [Sedna](https://sedna.cc) - A website about Free Software. 
 - [Silent Orbit](https://silentorbit.space/) - Silent Orbit provides the latest space related news, in a clear and concise manner.
 - [scada.xyz](https://scada.xyz) - Content specifically regarding SCADA/ICS. [Temp. Offline]
 	- [Insecure SCADA](https://insecure.scada.xyz) - Highlights and overview of attacks on industrial systems.
-- [just-paranoid.net](https://just-paranoid.net) - Hosting and networking service.
-- [constant-zero.com](https://constant-zero.com) - Journal of my journey into maths and the natural universe.
-- [linux-application-firewall.org](https://linux-application-firewall.org/) - The Linux Application Firewall (LAF) Project. I'm the project lead for a desktop per-application firewall.  
 
-[Click here](/projects.html) for a full listing of my projects.
+# projects
+
+I've a lot of projects, [Click here](/projects.html) to see a full listing of them.
 
 # contact
 
