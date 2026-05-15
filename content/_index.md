@@ -2,6 +2,11 @@
 title: Peter Maynard
 --- 
 
+This bio has not been updated since 2019.  
+Please see [LinkedIn](https://www.linkedin.com/in/pgmaynard/) or [my blog](https://not.just-paranoid.net/). 
+
+* * * 
+
 Pete is a PostDoc at [Queen's University Belfast](https://qub.ac.uk) working within [EEECS](https://www.qub.ac.uk/schools/eeecs/) at the [Centre for Secure IT](https://www.qub.ac.uk/csit/). His research interests include:
 
 - Network protocols and networking architectures
